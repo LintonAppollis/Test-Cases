@@ -46,6 +46,6 @@ public class PersonTest
             {
             linton.gender();
             String msg = linton.getGenderMessage();
-            assertEquals("I am male named linton", msg);
+            assertEquals("I am male named linton$$$$$", msg);
             }
     }
